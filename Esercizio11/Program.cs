@@ -28,7 +28,7 @@ namespace Esercizio11
             {
                 Console.Write(a[i]+" ");
             }
-            Console.WriteLine("\nLa complessità è n^2!");
+            Console.WriteLine("\nLa complessità è n^2.");
             Console.ReadLine();
         }
     }
